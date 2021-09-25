@@ -1,0 +1,12 @@
+﻿  NumberOfTen.c
+C:\Users\asoko\Desktop\У(ч)еба\Проги\NumberOfTen\NumberOfTen\NumberOfTen.c(128,15): warning C4047: ==: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\asoko\Desktop\У(ч)еба\Проги\NumberOfTen\NumberOfTen\NumberOfTen.c(185,18): warning C4047: =: "unsigned char" отличается по уровням косвенного обращения от "void *"
+C:\Users\asoko\Desktop\У(ч)еба\Проги\NumberOfTen\NumberOfTen\NumberOfTen.c(199,39): warning C4244: +=: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\asoko\Desktop\У(ч)еба\Проги\NumberOfTen\NumberOfTen\NumberOfTen.c(207,16): warning C4047: =: "unsigned char" отличается по уровням косвенного обращения от "void *"
+C:\Users\asoko\Desktop\У(ч)еба\Проги\NumberOfTen\NumberOfTen\NumberOfTen.c(144,1): warning C4047: инициализация: "unsigned char" отличается по уровням косвенного обращения от "void *"
+  Создание кода
+  Создание кода завершено
+  5 of 16 functions (31.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  NumberOfTen.vcxproj -> C:\Users\asoko\Desktop\У(ч)еба\Проги\NumberOfTen\Release\NumberOfTen.exe
